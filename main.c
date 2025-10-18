@@ -1,6 +1,7 @@
+//file: main.c
 #include<stdio.h>
 
 int main(){
- puts("Hello world!");
+ puts("Hi");
  return 0;
 }
