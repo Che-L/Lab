@@ -1,0 +1,7 @@
+# ignore executable and object files
+program
+*.o
+*.exe
+# editor backup files
+*~
+*.swp
